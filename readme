@@ -1,0 +1,8 @@
+this project uses tweepy to acces twitter tweets for a given key word. 
+future plans include expanding this feature to make date based queries on the given keyword,
+and expanding the number of key words included and excluded from the query.
+
+it then clasifies the languages of the tweets with the goal of picking out the ones writen inspanish for the sentiment analysis. 
+
+Then a sentiment analysis is carried out on the tweets and the results are displayed on a streamlit app.
+future plans include, expanding metrics and analysis based on the sentiment analysis, and expanding the analysys to other languages. 
